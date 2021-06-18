@@ -1,5 +1,13 @@
 # Getting Started with Create React App
 
+## Creating Sample Web application 
+ 
+## Deploying App into Firebase
+
+<p> Site : <a href="https://reactjsweb-todo.web.app/">https://reactjsweb-todo.web.app</a> </p>
+
+--
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
